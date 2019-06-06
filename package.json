@@ -1,0 +1,28 @@
+{
+  "name": "lab-19-file-writer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --coverage --verbose",
+    "lint": "eslint '**/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-joejemmely/lab-19-file-writer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-joejemmely/lab-19-file-writer/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-joejemmely/lab-19-file-writer#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "@nmq/q": "^1.0.3"
+  }
+}
