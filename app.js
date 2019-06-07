@@ -1,10 +1,7 @@
 'use strict';
 
-const fs = require('fs');
-const { promisify } = require('util');
-
-const readFileAsync = promisify(fs.readFile);
-const writeFileAsync = promisify(fs.writeFile);
+const readFileAsync = require('./lib/readFileAsync.js');
+const writeFileAsync = require('./lib/writeFileAsync.js');
 
 const events = require('./utils/events.js');
 const QClient = require('@nmq/q/client');
