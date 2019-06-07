@@ -10,6 +10,7 @@
  * @param READ
  * @param UPDATE
  * @param DELETE
+ * @param ERROR
  */
 module.exports = {
   files: {
@@ -21,5 +22,6 @@ module.exports = {
     READ: 'READ',
     UPDATE: 'UPDATE',
     DELETE: 'DELETE',
+    ERROR: 'ERROR',
   },
 };
