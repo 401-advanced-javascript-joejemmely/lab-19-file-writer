@@ -11,6 +11,18 @@
 
 #### Documentation
 
+<a name="alterFile"></a>
+
+## alterFile(file)
+
+Async function to read, transform, and write
+
+**Kind**: global function
+
+| Param | Type            |
+| ----- | --------------- |
+| file  | <code>\*</code> |
+
 ## events
 
 files
