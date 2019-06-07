@@ -1,3 +1,16 @@
+/**
+ * @module events
+ *
+ * files
+ * @param SAVE
+ * @param ERROR
+ *
+ * database
+ * @param CREATE
+ * @param READ
+ * @param UPDATE
+ * @param DELETE
+ */
 module.exports = {
   files: {
     SAVE: 'SAVE',

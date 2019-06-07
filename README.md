@@ -11,6 +11,24 @@
 
 #### Documentation
 
+## events
+
+files
+
+| Param | Description |
+| ----- | ----------- |
+| SAVE  |             |
+| ERROR |             |
+
+database
+
+| Param  | Description |
+| ------ | ----------- |
+| CREATE |             |
+| READ   |             |
+| UPDATE |             |
+| DELETE |             |
+
 ### Setup
 
 #### Running the app
